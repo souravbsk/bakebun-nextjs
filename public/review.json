@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+      "name": "John Doe",
+      "designation": "CEO",
+      "image": "https://i.ibb.co/Nxwhpqw/rc-cf-FMh5o5m5-N9-E-unsplash-1.jpg",
+      "feedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod eleifend orci id mattis. Integer consectetur est id turpis posuere, sit amet tempor erat accumsan."
+    },
+    {
+        "id":2,
+      "name": "Jane Smith",
+      "designation": "Marketing Manager",
+      "image": "https://i.ibb.co/V3CXkcJ/petr-sevcovic-e5-Q5v-WO55u-U-unsplash-1.jpg",
+      "feedback": "Nulla ultricies libero eget eros maximus, ac luctus dolor convallis. Vestibulum eu orci eget mi tincidunt ultricies vel vitae nunc. Fusce tristique ligula quis enim porta, non consequat ligula cursus."
+    },
+    {
+        "id":3,
+      "name": "David Johnson",
+      "designation": "Software Engineer",
+      "image": "https://i.ibb.co/XpkFtqf/handsome-chef-jugglery-with-vegetable-1-1.jpg",
+      "feedback": "Sed sed mauris eu risus fermentum pulvinar. Vestibulum posuere tellus at facilisis bibendum. Quisque a pharetra neque, non consectetur nunc."
+    },
+    {
+        "id":4,
+      "name": "Emily Davis",
+      "designation": "Graphic Designer",
+      "image": "https://i.ibb.co/Nxwhpqw/rc-cf-FMh5o5m5-N9-E-unsplash-1.jpg",
+      "feedback": "Donec id ligula elementum, rhoncus mauris a, feugiat eros. Sed ut feugiat purus. Nulla facilisi. Nunc ac libero sit amet turpis malesuada posuere."
+    }
+  ]
+  

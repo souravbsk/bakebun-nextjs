@@ -1,0 +1,39 @@
+[
+    {
+      "title": "Organic Tomatoes",
+      "description": "Fresh and juicy tomatoes grown organically.",
+      "id": 1,
+      "picture": "https://i.ibb.co/5FQtt8P/gardener-working-in-a-garden-e1665071350230.jpg"
+    },
+    {
+      "title": "Herbal Tea",
+      "description": "A soothing blend of organic herbs for a refreshing experience.",
+      "id": 2,
+      "picture": "https://i.ibb.co/ZSvt2gC/garden-fungicide-and-insecticide-equipment-1536x1024.jpg"
+    },
+    {
+      "title": "Garden Tools Set",
+      "description": "A complete set of high-quality garden tools for your gardening needs.",
+      "id": 3,
+      "picture": "https://i.ibb.co/BgzN3wK/big-garden-grass-field-mowing-by-caucasian-gardener-e1665071278503.jpg"
+    },
+    {
+      "title": "Compost Fertilizer",
+      "description": "Nutrient-rich compost for healthy plant growth.",
+      "id": 4,
+      "picture": "https://i.ibb.co/1rY8GgL/greenhouse-in-the-garden-e1665071375969.jpg"
+    },
+    {
+      "title": "Organic Honey",
+      "description": "Pure and natural honey from our bee farms.",
+      "id": 5,
+      "picture": "https://i.ibb.co/fXRWYS9/happy-black-gardener-with-potted-flower-in-greenhouse-1536x1003.jpg"
+    },
+    {
+      "title": "Indoor Plant Collection",
+      "description": "A curated collection of indoor plants to enhance your living space.",
+      "id": 6,
+      "picture": "https://i.ibb.co/ygT0GGT/professional-landscape-gardening-services-1536x984.jpg"
+    }
+  ]
+  
